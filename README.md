@@ -1,2 +1,5 @@
 # nitrogen-analysis-cover-crops
-Análisis y visualización de datos de nitrógeno disponible y lixiviación bajo diferentes manejos de cultivos de cobertura.
+## Descripción del proyecto
+Estudios realizados en la zona central de Chile han identificado un alto riesgo de carga de nitrógeno en los cuerpos de agua, asociado al uso de fertilizantes nitrogenados y a la contaminación por nitratos derivada de la actividad agrícola. Por ello, actualmente se buscan estrategias que mejoren la fertilidad del suelo y la disponibilidad de nitrógeno para los cultivos comerciales sin comprometer la calidad del agua.
+Este proyecto evalúa el manejo integrado de cultivos de cobertura y de distintas prácticas de terminación como una posible alternativa a esta problemática. El repositorio contiene datos de dos tipos de cobertura (avena y multiespecies) y tres formas de terminación (pastoreo, incorporación y corte y retiro de biomasa). Se incluye además un tratamiento control en barbecho (sin cultivo de cobertura).
+Se analizará la disponibilidad de nitrógeno en el suelo a partir de las concentraciones de nitrato (NO₃⁻) y amonio (NH₄⁺), además de las pérdidas de nitrato por lixiviación.
