@@ -1,0 +1,4 @@
+"variable","tipo","valores_esperados","Admite_NA"
+"amonio","numérica","> 0 y <= 20 mg/kg","Sí"
+"nitrato","numérica","> 0 y <= 30 mg/kg","Sí"
+"lixiviacion","numérica","> 0 y <= 50 kg N/ha","Sí"
